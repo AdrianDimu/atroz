@@ -1,0 +1,5 @@
+{
+  "c_include_dirs": [
+    "/usr/local/opt/sdl2/include"
+  ]
+}
