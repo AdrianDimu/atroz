@@ -1,0 +1,31 @@
+# Binaries
+*.exe
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+
+# Build artifacts
+zig-cache/
+zig-out/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*~
+*.bak
+*.tmp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Testing/temp files
+test-output/
+*.test
